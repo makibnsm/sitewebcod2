@@ -16,7 +16,7 @@ background-color: orange;
 .lieux{
   color : black;
   display: flex;
-    flex-direction: column;
+  flex-direction: column;
   justify-content: center;
   text-align: center;
   background-color: rgba(255,255,255, 0.7);
@@ -109,5 +109,5 @@ li:hover ul.lv1, li li:hover ul.lv2 {display: block;}
   justify-content: center;
   text-align: left;
   font-weight: bold;
-  padding-left: 30px
+  padding-left: 3
 }
