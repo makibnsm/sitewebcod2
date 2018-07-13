@@ -20,6 +20,7 @@ background-color: orange;
   justify-content: center;
   text-align: center;
   background-color: rgba(255,255,255, 0.7);
+  padding: 20px;
 }
 
 .safety {
@@ -52,3 +53,51 @@ font-weight: bold;
 
 ul ul {display: none;}
 li:hover ul.lv1, li li:hover ul.lv2 {display: block;}
+
+.boite1{
+  display: flex;
+  flex-direction: row;
+}
+
+.boite1 :nth-child(1) {order: 1}
+.boite1 :nth-child(2) {order: 2}
+
+.boite2{
+  display: flex;
+  flex-direction: row;
+}
+
+.boite2 :nth-child(1) {order: 1}
+.boite2 :nth-child(2) {order: 2}
+
+.boite3{
+  display: flex;
+  flex-direction: row;
+}
+
+.boite3 :nth-child(1) {order: 1}
+.boite3 :nth-child(2) {order: 2}
+
+.boite4{
+  display: flex;
+  flex-direction: row;
+}
+
+.boite4 :nth-child(1) {order: 1}
+.boite4 :nth-child(2) {order: 2}
+
+.boite5{
+  display: flex;
+  flex-direction: row;
+}
+
+.boite5 :nth-child(1) {order: 1}
+.boite5 :nth-child(2) {order: 2}
+
+.boite6{
+  display: flex;
+  flex-direction: row;
+}
+
+.boite6 :nth-child(1) {order: 1}
+.boite6 :nth-child(2) {order: 2}
