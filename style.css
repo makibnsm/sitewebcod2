@@ -109,4 +109,5 @@ li:hover ul.lv1, li li:hover ul.lv2 {display: block;}
   justify-content: center;
   text-align: left;
   font-weight: bold;
+  padding-left: 30px
 }
