@@ -18,7 +18,7 @@ background-color: orange;
     width: auto;
     height: 450px;
     border: 3px solid #333;
-    background-image: url("imgs/image1.png");
+    background-image: url("http://img.over-blog-kiwi.com/2/02/47/59/20170908/ob_750ff4_la-petite-ceinture.jpg");
 
     webkit-animation-name: diapo1;
     webkit-animation-duration: 9s;
@@ -40,21 +40,21 @@ background-color: orange;
 }
 
 @-webkit-keyframes diapo1{
-    0%{background-image: url("imgs/image1.png");}
-    33%{background-image: url("imgs/image2.png");}
-    66%{background-image: url("imgs/image3.png");}
+    0%{background-image: url("http://img.over-blog-kiwi.com/2/02/47/59/20170908/ob_750ff4_la-petite-ceinture.jpg");}
+    33%{background-image: url("https://cache.20minutes.fr/photos/2013/05/30/ligne-8-l8-ec2e-diaporama.jpg");}
+    66%{background-image: url("https://i.pinimg.com/originals/37/61/96/3761964b28bce865366124ab547b8520.jpg");}
 }
 
 @-moz-keyframes diapo1{
-    0%{background-image: url("imgs/image1.png");}
-    33%{background-image: url("imgs/image2.png");}
-    66%{background-image: url("imgs/image3.png");}
+    0%{background-image: url("http://img.over-blog-kiwi.com/2/02/47/59/20170908/ob_750ff4_la-petite-ceinture.jpg");}
+    33%{background-image: url("https://cache.20minutes.fr/photos/2013/05/30/ligne-8-l8-ec2e-diaporama.jpg");}
+    66%{background-image: url("https://i.pinimg.com/originals/37/61/96/3761964b28bce865366124ab547b8520.jpg");}
 }
 
 @keyframes diapo1{
-    0%{background-image: url("imgs/image1.png");}
-    33%{background-image: url("imgs/image2.png");}
-    66%{background-image: url("imgs/image3.png");}
+    0%{background-image: url("http://img.over-blog-kiwi.com/2/02/47/59/20170908/ob_750ff4_la-petite-ceinture.jpg");}
+    33%{background-image: url("https://cache.20minutes.fr/photos/2013/05/30/ligne-8-l8-ec2e-diaporama.jpg");}
+    66%{background-image: url("https://i.pinimg.com/originals/37/61/96/3761964b28bce865366124ab547b8520.jpg");}
 }
 
 .safety {
