@@ -40,21 +40,21 @@ background-color: orange;
 }
 
 @-webkit-keyframes diapo1{
-    0%{background-image: url("C:\Users\Asus\Pictures\pc.jpg");}
-    33%{background-image: url("‪C:\Users\Asus\Pictures\stmartin.jpg");}
-    66%{background-image: url("‪C:\Users\Asus\Pictures\catac.jpg");}
+    0%{background-image: url("https://armycarus.do.am/_fr/0/s5420592.jpg");}
+    33%{background-image: url("http://www.interviajeros.com/wp-content/uploads/2016/06/catacumbas-de-paris.jpg");}
+    66%{background-image: url("‪https://5respublika.com/media/uploads/2014/07/metro-st-martin.jpg");}
 }
 
 @-moz-keyframes diapo1{
-    0%{background-image: url("C:\Users\Asus\Pictures\pc.jpg");}
-    33%{background-image: url("C:\Users\Asus\Pictures\stmartin.jpg");}
-    66%{background-image: url("‪C:\Users\Asus\Pictures\catac.jpg");}
+    0%{background-image: url("https://armycarus.do.am/_fr/0/s5420592.jpg");}
+    33%{background-image: url("http://www.interviajeros.com/wp-content/uploads/2016/06/catacumbas-de-paris.jpg");}
+    66%{background-image: url("https://5respublika.com/media/uploads/2014/07/metro-st-martin.jpg");}
 }
 
 @keyframes diapo1{
-    0%{background-image: url("C:\Users\Asus\Pictures\pc.jpg");}
-    33%{background-image: url("‪C:\Users\Asus\Pictures\stmartin.jpg");}
-    66%{background-image: url("‪C:\Users\Asus\Pictures\catac.jpg");}
+    0%{background-image: url("https://armycarus.do.am/_fr/0/s5420592.jpg");}
+    33%{background-image: url("http://www.interviajeros.com/wp-content/uploads/2016/06/catacumbas-de-paris.jpg");}
+    66%{background-image: url("‪https://5respublika.com/media/uploads/2014/07/metro-st-martin.jpg");}
 }
 
 .safety {
