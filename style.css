@@ -133,7 +133,7 @@ ul ul {display: none;}
 }
 
 .owl-dots {
-      margin-left: 450px !important; /*for centering the dots*/
+  margin-left: 450px;
 }
 
 .owl-dot {
@@ -143,7 +143,7 @@ ul ul {display: none;}
      border: 1px solid #ccc !important;
      background: #333 !important;
      margin-right: 5px;
-     display: inline-block;  /*for making them horizontal, if you want vertical then you can use- display: block*/
+     display: inline-block;
 }
 
 .owl-dot.active {
@@ -155,5 +155,7 @@ ul ul {display: none;}
   border: solid 0.5px !important;
   padding: 10px 10px !important;
   width: 11px;
-  margin-left: 455px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
