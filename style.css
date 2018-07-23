@@ -13,6 +13,15 @@ text-align: center;
 background-color: orange;
 }
 
+
+
+    .owl-carousel img{
+        display: block;
+        width: 100%;
+        height: auto;
+    }
+
+
 .safety {
   color : white;
   display: flex;
@@ -121,4 +130,30 @@ li:hover ul.lv1, li li:hover ul.lv2 {display: block;}
   border: solid 2.5px;
   border-radius: 10px;
   border-color: black;
+}
+
+.owl-dots {
+      margin-left: 450px !important; /*for centering the dots*/
+}
+
+.owl-dot {
+     width: 10px;
+     height: 10px;
+     border-radius: 100%;
+     border: 1px solid #ccc !important;
+     background: #333 !important;
+     margin-right: 5px;
+     display: inline-block;  /*for making them horizontal, if you want vertical then you can use- display: block*/
+}
+
+.owl-dot.active {
+     background: #ffa60a !important;
+}
+
+.owl-nav {
+  background: white !important;
+  border: solid 0.5px !important;
+  padding: 10px 10px !important;
+  width: 11px;
+  margin-left: 455px;
 }
