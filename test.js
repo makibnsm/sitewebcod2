@@ -6,3 +6,7 @@ $(document).ready(function(){
     nav: true,
   });
 });
+
+$("#button").click(function(){
+$("#ss-m").css("display","block")
+})

@@ -51,7 +51,7 @@ font-weight: bold;
 }
 
 ul ul {display: none;}
-li:hover ul.lv1, li li:hover ul.lv2 {display: block;}
+/* li:hover ul.lv1, li li:hover ul.lv2 {display: block;} */
 
 .boite1{
   display: flex;
