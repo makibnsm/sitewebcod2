@@ -111,3 +111,14 @@ li:hover ul.lv1, li li:hover ul.lv2 {display: block;}
   background-color: rgba(255,255,255, 0.7);
   padding: 30px
 }
+
+.lv1{
+  margin-left: -45px;
+  position: absolute;
+  margin-top: 15px;
+  padding:8px 20px;
+  background-color: white;
+  border: solid 2.5px;
+  border-radius: 10px;
+  border-color: black;
+}
