@@ -5,156 +5,155 @@ background-size: cover;
 }
 
 .accueil {
-color : white;
-display: flex;
-  flex-direction: column;
-justify-content: center;
-text-align: center;
-background-color: orange;
+    color : white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    background-color: orange;
 }
 
-
-
-    .owl-carousel img{
-        display: block;
-        width: 100%;
-        height: auto;
+.owl-carousel img{
+    display: block;
+    width: 100%;
+    height: auto;
     }
 
 
 .safety {
-  color : white;
-  display: flex;
+    color : white;
+    display: flex;
     flex-direction: column;
-  justify-content: center;
-  text-align: center;
-  background-color: darkred;
+    justify-content: center;
+    text-align: center;
+    background-color: darkred;
 }
+
 .bouton {
-  margin-left: -130px;
-  position: absolute;
-  margin-top: 15px;
-  padding:8px 20px;
-  background-color: white;
-  border: solid 2.5px;
-  border-radius: 10px;
-  border-color: black;
+    margin-left: -130px;
+    position: absolute;
+    margin-top: 15px;
+    padding:8px 20px;
+    background-color: white;
+    border: solid 2.5px;
+    border-radius: 10px;
+    border-color: black;
 }
 
 .intro {
-background-color: rgba(255,255,255, 0.7);
-display: flex;
-flex-direction: column;
-justify-content: center;
-text-align: center;
-font-weight: bold;
+    background-color: rgba(255,255,255, 0.7);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    font-weight: bold;
 }
 
 ul ul {display: none;}
-li:hover ul.lv2 {display: block;}
+/*li:hover ul.lv2 {display: block;}*/
 
 .boite1{
-  display: flex;
-  flex-direction: row;
+    display: flex;
+    flex-direction: row;
 }
 
 .boite1 :nth-child(1) {order: 1}
 .boite1 :nth-child(2) {order: 2}
 
 .boite2{
-  display: flex;
-  flex-direction: row;
+    display: flex;
+    flex-direction: row;
 }
 
 .boite2 :nth-child(1) {order: 1}
 .boite2 :nth-child(2) {order: 2}
 
 .boite3{
-  display: flex;
-  flex-direction: row;
+    display: flex;
+    flex-direction: row;
 }
 
 .boite3 :nth-child(1) {order: 1}
 .boite3 :nth-child(2) {order: 2}
 
 .boite4{
-  display: flex;
-  flex-direction: row;
+    display: flex;
+    flex-direction: row;
 }
 
 .boite4 :nth-child(1) {order: 1}
 .boite4 :nth-child(2) {order: 2}
 
 .boite5{
-  display: flex;
-  flex-direction: row;
+    display: flex;
+    flex-direction: row;
 }
 
 .boite5 :nth-child(1) {order: 1}
 .boite5 :nth-child(2) {order: 2}
 
 .boite6{
-  display: flex;
-  flex-direction: row;
+    display: flex;
+    flex-direction: row;
 }
 
 .boite6 :nth-child(1) {order: 1}
 .boite6 :nth-child(2) {order: 2}
 
 .contactaides {
-  background-color: rgba(255,255,255, 0.7);
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  text-align: left;
-  font-weight: bold;
-  padding-left: 3
+    background-color: rgba(255,255,255, 0.7);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+    font-weight: bold;
+    padding-left: 3
 }
 
 .lieux2{
-  color : black;
-  display: flex;
+    color : black;
+    display: flex;
     flex-direction: column;
-  justify-content: center;
-  text-align: center;
-  background-color: rgba(255,255,255, 0.7);
-  padding: 30px
+    justify-content: center;
+    text-align: center;
+    background-color: rgba(255,255,255, 0.7);
+    padding: 30px
 }
 
 .lv1{
-  margin-left: -45px;
-  position: absolute;
-  margin-top: 15px;
-  padding:8px 20px;
-  background-color: white;
-  border: solid 2.5px;
-  border-radius: 10px;
-  border-color: black;
+    margin-left: -45px;
+    position: absolute;
+    margin-top: 15px;
+    padding:8px 20px;
+    background-color: white;
+    border: solid 2.5px;
+    border-radius: 10px;
+    border-color: black;
 }
 
 .owl-dots {
-  margin-left: 450px;
+    margin-left: 450px;
 }
 
 .owl-dot {
-     width: 10px;
-     height: 10px;
-     border-radius: 100%;
-     border: 1px solid #ccc !important;
-     background: #333 !important;
-     margin-right: 5px;
-     display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+    border: 1px solid #ccc !important;
+    background: #333 !important;
+    margin-right: 5px;
+    display: inline-block;
 }
 
 .owl-dot.active {
-     background: #ffa60a !important;
+    background: #ffa60a !important;
 }
 
 .owl-nav {
-  background: white !important;
-  border: solid 0.5px !important;
-  padding: 10px 10px !important;
-  width: 11px;
-  margin-left: auto;
-  margin-right: auto;
+    background: white !important;
+    border: solid 0.5px !important;
+    padding: 10px 10px !important;
+    width: 11px;
+    margin-left: auto;
+    margin-right: auto;
 }
