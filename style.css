@@ -18,6 +18,7 @@ width: 135px;
     justify-content: center;
     text-align: center;
     background-color: orange;
+    padding: 30px;
 }
 
 .safety {
@@ -27,6 +28,7 @@ width: 135px;
     justify-content: center;
     text-align: center;
     background-color: darkred;
+    padding: 20px;
 }
 
 .bouton {
@@ -124,4 +126,10 @@ ul ul {display: none;}
     border-radius: 10px;
     border-color: black;
     display: none;
+}
+
+
+.intro{
+  padding: 20px;
+
 }
