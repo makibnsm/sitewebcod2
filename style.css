@@ -123,4 +123,5 @@ ul ul {display: none;}
     border: solid 2.5px;
     border-radius: 10px;
     border-color: black;
+    display: none;
 }
