@@ -4,6 +4,13 @@ background-image: url("http://img.over-blog-kiwi.com/0/98/45/73/20150121/ob_1a09
 background-size: cover;
 }
 
+header{
+  position: absolute;
+top: 30px;
+left: 5px;
+width: 135px;
+}
+
 .accueil {
     color : white;
     display: flex;
@@ -12,13 +19,6 @@ background-size: cover;
     text-align: center;
     background-color: orange;
 }
-
-.owl-carousel img{
-    display: block;
-    width: 100%;
-    height: auto;
-    }
-
 
 .safety {
     color : white;
@@ -30,9 +30,6 @@ background-size: cover;
 }
 
 .bouton {
-    margin-left: -130px;
-    position: absolute;
-    margin-top: 15px;
     padding:8px 20px;
     background-color: white;
     border: solid 2.5px;
@@ -121,39 +118,9 @@ ul ul {display: none;}
 }
 
 .lv1{
-    margin-left: -45px;
-    position: absolute;
-    margin-top: 15px;
     padding:8px 20px;
     background-color: white;
     border: solid 2.5px;
     border-radius: 10px;
     border-color: black;
-}
-
-.owl-dots {
-    margin-left: 450px;
-}
-
-.owl-dot {
-    width: 10px;
-    height: 10px;
-    border-radius: 100%;
-    border: 1px solid #ccc !important;
-    background: #333 !important;
-    margin-right: 5px;
-    display: inline-block;
-}
-
-.owl-dot.active {
-    background: #ffa60a !important;
-}
-
-.owl-nav {
-    background: white !important;
-    border: solid 0.5px !important;
-    padding: 10px 10px !important;
-    width: 11px;
-    margin-left: auto;
-    margin-right: auto;
 }
