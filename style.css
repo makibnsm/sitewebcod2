@@ -136,8 +136,83 @@ ul ul {display: none;}
 }
 
 .itrmap{
-  background-color: rgba(255,255,255, 0.7);
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/d/d7/Paris_plan_jms.png");
   display: flex;
   justify-content: center;
-  padding-bottom: 60px
+  z-index: 1;
+  position: relative;
+  background-size: cover;
+  height:700px;
+}
+
+.circ1{
+  position : relative;
+  top: 400px;
+  right: 150px;
+  background: red;
+  border-radius:50%;
+  width:15px;
+  height:15px;
+  border:3px solid darkred;
+  z-index: 0
+}
+
+.circ2{
+  position : relative;
+  top: 298px;
+  left: 102px;
+  background: red;
+  border-radius:50%;
+  width:15px;
+  height:15px;
+  border:3px solid darkred;
+  z-index: 0
+}
+
+.circ3{
+  position: relative;
+  top: 555px;
+  right: 198px;
+  background: red;
+  border-radius:50%;
+  width:15px;
+  height:15px;
+  border:3px solid darkred;
+  z-index: 0
+}
+
+.circ4{
+  position: relative;
+  top: 350px;
+  right: 335px;
+  background: red;
+  border-radius:50%;
+  width:15px;
+  height:15px;
+  border:3px solid darkred;
+  z-index: 0
+}
+
+.circ5{
+  position: relative;
+  top: 140px;
+  left: 275px;
+  background: red;
+  border-radius:50%;
+  width:15px;
+  height:15px;
+  border:3px solid darkred;
+  z-index: 0
+}
+
+.circ6{
+  position: relative;
+  top:105px;
+  left: 150px;
+  background: red;
+  border-radius:50%;
+  width:15px;
+  height:15px;
+  border:3px solid darkred;
+  z-index: 0
 }
