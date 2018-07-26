@@ -1,10 +1,5 @@
 $(document).ready(function(){
-  console.log("test");
-  $(".owl-carousel").owlCarousel({
-    items: 1,
-    loop: true,
-    nav: true,
-  });
+console.log('Initializing Done')
 });
 
 $("#button").click(function(){
