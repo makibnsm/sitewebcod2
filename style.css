@@ -1,6 +1,6 @@
 body {
 padding: 10px 150px;
-background-image: url("http://img.over-blog-kiwi.com/0/98/45/73/20150121/ob_1a0946_boussole.jpg");
+background-image: url("https://i.pinimg.com/originals/78/14/06/78140651a28afcfe0991cef229049104.png");
 background-size: cover;
 }
 
@@ -17,7 +17,7 @@ width: 135px;
     flex-direction: column;
     justify-content: center;
     text-align: center;
-    background-color: orange;
+    background-color: #0895C0 ;
     padding: 30px;
 }
 
@@ -27,7 +27,7 @@ width: 135px;
     flex-direction: column;
     justify-content: center;
     text-align: center;
-    background-color: darkred;
+    background-color: #08007B;
     padding: 20px;
 }
 
