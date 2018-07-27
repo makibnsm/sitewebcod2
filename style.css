@@ -37,6 +37,7 @@ width: 135px;
     border: solid 2.5px;
     border-radius: 10px;
     border-color: black;
+    /*main pour pointer le menu en dessous de ce comm*/
     cursor: pointer;
 }
 
