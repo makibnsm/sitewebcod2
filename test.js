@@ -15,61 +15,67 @@ $("#ss-m").css("display","none")
 
 // commandes pour les pts de itrmap :
 // $("#c1").click(function(){
-// var displayValue = $("#").css("display")
+// var displayValue = $("#r1").css("display")
 // console.log(displayValue)
 // if (displayValue=="none"){
-// $("#").css("display","block")
+// $("#r1").css("display","block")
 // }
 // else if  (displayValue=="block"){
-// $("#").css("display","none")
+// $("#r1").css("display","none")
 // }
+// });
 //
 // $("#c2").click(function(){
-// var displayValue = $("#").css("display")
+// var displayValue = $("#r2").css("display")
 // console.log(displayValue)
 // if (displayValue=="none"){
-// $("#").css("display","block")
+// $("#r2").css("display","block")
 // }
 // else if  (displayValue=="block"){
-// $("#").css("display","none")
+// $("#r2").css("display","none")
 // }
+// });
 //
 // $("#c3").click(function(){
-// var displayValue = $("#").css("display")
+// var displayValue = $("#r3").css("display")
 // console.log(displayValue)
 // if (displayValue=="none"){
-// $("#").css("display","block")
+// $("#r3").css("display","block")
 // }
 // else if  (displayValue=="block"){
 // $("#").css("display","none")
 // }
+// });
 //
 // $("#c4").click(function(){
-// var displayValue = $("#").css("display")
+// var displayValue = $("#r4").css("display")
 // console.log(displayValue)
 // if (displayValue=="none"){
-// $("#").css("display","block")
+// $("#r4").css("display","block")
 // }
 // else if  (displayValue=="block"){
-// $("#").css("display","none")
+// $("#r4").css("display","none")
 // }
+// });
 //
 // $("#c5").click(function(){
-// var displayValue = $("#").css("display")
+// var displayValue = $("#r5").css("display")
 // console.log(displayValue)
 // if (displayValue=="none"){
-// $("#").css("display","block")
+// $("#r5").css("display","block")
 // }
 // else if  (displayValue=="block"){
-// $("#").css("display","none")
+// $("#r5").css("display","none")
 // }
+// });
 //
 // $("#c6").click(function(){
-// var displayValue = $("#").css("display")
+// var displayValue = $("#r6").css("display")
 // console.log(displayValue)
 // if (displayValue=="none"){
-// $("#").css("display","block")
+// $("#r6").css("display","block")
 // }
 // else if  (displayValue=="block"){
-// $("#").css("display","none")
+// $("#r6").css("display","none")
 // }
+// });
