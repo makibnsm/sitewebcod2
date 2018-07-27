@@ -227,6 +227,61 @@ z-index: 2;
   z-index: 3;
 }
 
+.rect1{
+  padding:8px 20px;
+  background-color: white;
+  border: solid 2.5px;
+  border-radius: 10px;
+  border-color: black;
+  cursor: pointer;
+}
+
+
+.rect2{
+  padding:8px 20px;
+  background-color: white;
+  border: solid 2.5px;
+  border-radius: 10px;
+  border-color: black;
+  cursor: pointer;
+}
+
+.rect3{
+  padding:8px 20px;
+  background-color: white;
+  border: solid 2.5px;
+  border-radius: 10px;
+  border-color: black;
+  cursor: pointer;
+}
+
+.rect4{
+  padding:8px 20px;
+  background-color: white;
+  border: solid 2.5px;
+  border-radius: 10px;
+  border-color: black;
+  cursor: pointer;
+}
+
+.rect5{
+  padding:8px 20px;
+  background-color: white;
+  border: solid 2.5px;
+  border-radius: 10px;
+  border-color: black;
+  cursor: pointer;
+}
+
+.rect6 {
+  padding:8px 20px;
+  background-color: white;
+  border: solid 2.5px;
+  border-radius: 10px;
+  border-color: black;
+  cursor: pointer;
+}
+
 @media query screen and (maxwidth {
 
 }
