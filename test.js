@@ -22,3 +22,63 @@ $("#ss-m").css("display","none")
 // $("#ss-m2").css("display","none")
 // }
 // });
+
+$("#c1").click(function(){
+var displayValue = $("#").css("display")
+console.log(displayValue)
+if (displayValue=="none"){
+$("#").css("display","block")
+}
+else if  (displayValue=="block"){
+$("#").css("display","none")
+}
+
+$("#c2").click(function(){
+var displayValue = $("#").css("display")
+console.log(displayValue)
+if (displayValue=="none"){
+$("#").css("display","block")
+}
+else if  (displayValue=="block"){
+$("#").css("display","none")
+}
+
+$("#c3").click(function(){
+var displayValue = $("#").css("display")
+console.log(displayValue)
+if (displayValue=="none"){
+$("#").css("display","block")
+}
+else if  (displayValue=="block"){
+$("#").css("display","none")
+}
+
+$("#c4").click(function(){
+var displayValue = $("#").css("display")
+console.log(displayValue)
+if (displayValue=="none"){
+$("#").css("display","block")
+}
+else if  (displayValue=="block"){
+$("#").css("display","none")
+}
+
+$("#c5").click(function(){
+var displayValue = $("#").css("display")
+console.log(displayValue)
+if (displayValue=="none"){
+$("#").css("display","block")
+}
+else if  (displayValue=="block"){
+$("#").css("display","none")
+}
+
+$("#c6").click(function(){
+var displayValue = $("#").css("display")
+console.log(displayValue)
+if (displayValue=="none"){
+$("#").css("display","block")
+}
+else if  (displayValue=="block"){
+$("#").css("display","none")
+}
