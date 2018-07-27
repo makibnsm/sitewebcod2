@@ -139,8 +139,6 @@ ul ul {display: none;}
 
 .itrmap{
   background-color: rgba(255,255,255, 0.7);
-  display: flex;
-  justify-content: center;
   z-index: 1;
   position: relative;
   background-size: cover;
@@ -152,135 +150,133 @@ ul ul {display: none;}
 position: relative;
 height: 90%;
 width: 90%;
-z-index: 2;
 }
 
-.circ1{
+.tot1{ /* ajoute dsp flex*/
+  display : flex;
   position : relative;
-  top: 36%;
-  right: 39%;
-  background: red;
-  border-radius:50%;
-  width:15px;
-  height:15px;
-  border:3px solid darkred;
-  z-index: 3;
-}
+  bottom: 54%;
+  left: 50%;
+  width: 100px;}
+   .rect1{
+    padding:8px 20px;
+    background-color: white;
+    border: solid 2.5px;
+    border-radius: 10px;
+    border-color: black;
+    cursor: pointer;
+    }
+  .circ1{
+    background: red;
+    border-radius:50%;
+    width:15px;
+    height:15px;
+    border:3px solid darkred;}
 
-.circ2{
+.tot2{ /* ajoute dsp flex*/
+  display : flex;
   position : relative;
-  top: 12%;
-  right: 32%;
-  background: red;
-  border-radius:50%;
-  width:15px;
-  height:15px;
-  border:3px solid darkred;
-  z-index: 3;
-}
-
-.circ3{
-  position: relative;
-  top: 48%;
-  right: 65%;
-  background: red;
-  border-radius:50%;
-  width:15px;
-  height:15px;
-  border:3px solid darkred;
-  z-index: 3;
-}
-
-.circ4{
-  position: relative;
-  top: 65.5%;
-  right: 65%;
-  background: red;
-  border-radius:50%;
-  width:15px;
-  height:15px;
-  border:3px solid darkred;
-  z-index: 3
-}
-
-.circ5{
-  position: relative;
-  top: 40% ;
-  right: 80%;
-  background: red;
-  border-radius:50%;
-  width:15px;
-  height:15px;
-  border:3px solid darkred;
-  z-index: 3;
-}
-
-.circ6{
-  position: relative;
-  top: 17%;
-  right: 28%;
-  background: red;
-  border-radius:50%;
-  width:15px;
-  height:15px;
-  border:3px solid darkred;
-  z-index: 3;
-}
-
-/* .rect1{
+  bottom:80%;
+  left: 59%;
+  width: 100px;}
+  .rect2{
   padding:8px 20px;
   background-color: white;
   border: solid 2.5px;
   border-radius: 10px;
   border-color: black;
-  cursor: pointer;
-}
+  cursor: pointer;}
+  .circ2{
+  background: red;
+  border-radius:50%;
+  width:15px;
+  height:15px;
+  border:3px solid darkred;
+  z-index: 3;}
 
-
-.rect2{
-  padding:8px 20px;
-  background-color: white;
-  border: solid 2.5px;
-  border-radius: 10px;
-  border-color: black;
-  cursor: pointer;
-}
-
+  .tot3{ /* ajoute dsp flex*/
+    display : flex;
+    position : relative;
+    bottom: 46%;
+    left: 28%;
+    width: 100px;}
 .rect3{
-  padding:8px 20px;
-  background-color: white;
-  border: solid 2.5px;
-  border-radius: 10px;
-  border-color: black;
-  cursor: pointer;
-}
+    padding:8px 20px;
+    background-color: white;
+    border: solid 2.5px;
+    border-radius: 10px;
+    border-color: black;
+    cursor: pointer;}
+  .circ3{
+  background: red;
+  border-radius:50%;
+  width:15px;
+  height:15px;
+  border:3px solid darkred;
+  z-index: 3;}
 
-.rect4{
-  padding:8px 20px;
-  background-color: white;
-  border: solid 2.5px;
-  border-radius: 10px;
-  border-color: black;
-  cursor: pointer;
-}
+  .tot4{ /* ajoute dsp flex*/
+    display : flex;
+    position : relative;
+    bottom: 32%;
+    left: 26%;
+    width: 100px;}
+     .rect4{
+      padding:8px 20px;
+      background-color: white;
+      border: solid 2.5px;
+      border-radius: 10px;
+      border-color: black;
+      cursor: pointer;}
+    .circ4{
+      background: red;
+      border-radius:50%;
+      width:15px;
+      height:15px;
+      border:3px solid darkred;}
 
-.rect5{
-  padding:8px 20px;
-  background-color: white;
-  border: solid 2.5px;
-  border-radius: 10px;
-  border-color: black;
-  cursor: pointer;
-}
 
-.rect6 {
-  padding:8px 20px;
-  background-color: white;
-  border: solid 2.5px;
-  border-radius: 10px;
-  border-color: black;
-  cursor: pointer;
-} */
+  .tot5{ /* ajoute dsp flex*/
+    display : flex;
+    position : relative;
+    bottom: 57%;
+    left: 16%;
+    width: 100px;}
+     .rect5{
+      padding:8px 20px;
+      background-color: white;
+      border: solid 2.5px;
+      border-radius: 10px;
+      border-color: black;
+      cursor: pointer;}
+    .circ5{
+      background: red;
+      border-radius:50%;
+      width:15px;
+      height:15px;
+      border:3px solid darkred;}
+
+
+  .tot6{ /* ajoute dsp flex*/
+    display : flex;
+    position : relative;
+    bottom: 84%;
+    left: 69%;
+    width: 100px;}
+     .rect6{
+      padding:8px 20px;
+      background-color: white;
+      border: solid 2.5px;
+      border-radius: 10px;
+      border-color: black;
+      cursor: pointer;}
+    .circ6{
+      background: red;
+      border-radius:50%;
+      width:15px;
+      height:15px;
+      border:3px solid darkred;}
+
 
 @media query screen and (maxwidth {
 
